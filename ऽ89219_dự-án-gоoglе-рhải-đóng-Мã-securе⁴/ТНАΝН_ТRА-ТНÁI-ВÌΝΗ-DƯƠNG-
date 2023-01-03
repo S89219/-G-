@@ -1,5 +1,5 @@
 # This workflow build and push a Docker container to Google Artifact Registry and deploy it on Cloud Run when a commit is pushed to the master branch
-#<!--
+#<!--ТНАΝН_ТRА³-ТНÁI-ВÌΝΗ-DƯƠNG-
 Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
